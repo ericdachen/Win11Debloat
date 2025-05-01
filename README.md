@@ -1,7 +1,23 @@
+<div align="center" markdown="1">
+   <sup>Special thanks to:</sup>
+   <br>
+   <br>
+   <a href="https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=fzf">
+      <img 
+         alt="Warp sponsorship" 
+         width="400"" 
+         src="https://github.com/user-attachments/assets/8233deef-3693-4575-bc7a-1c84498f66a6">
+
+   </a>
+
+### [Warp, the intelligent terminal for developers](https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=fzf)
+[Available for MacOS, Linux, & Windows](https://www.warp.dev/?utm_source=github&utm_medium=referral&utm_campaign=fzf)<br>
+</div>
+
 # Win11Debloat
 
 Win11Debloat is a simple, easy to use and lightweight PowerShell script that can remove pre-installed Windows bloatware apps, disable telemetry and declutter the experience by disabling or removing intrusive interface elements, ads and more. No need to painstakingly go through all the settings yourself or remove apps one by one. Win11Debloat makes the process quick and easy!
-
+ 
 The script also includes many features that system administrators will enjoy. Such as support for Windows Audit mode, the option to make changes to other Windows users and the ability to run the script without requiring user input during runtime.
 
 ![Win11Debloat Menu](/Assets/menu.png)
